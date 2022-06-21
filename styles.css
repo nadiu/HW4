@@ -1,0 +1,249 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 1480px;
+    background: #FFFFFF;
+    margin: 0%;
+}
+.container1{
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    background: #ED4C5C;
+}
+.block1{
+    display: block;
+    position: absolute;
+    width: 445px;
+    height: 195px;
+    left: 165px;
+    top: 122px;
+    color: #FFFFFF;
+}
+.text1{
+    width: 445px;
+    height: 107px;
+    left: 165px;
+    top: 122px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    margin: 0%;
+    color: #FFFFFF;
+}
+.text2{
+    width: 445px;
+    height: 64px;
+    left: 165px;
+    top: 253px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #FFFFFF;
+    
+}
+.pic1{
+    margin-top: 28px;
+    width: 32px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+}
+.pic2{
+    width: 32px;
+    height: 32px;
+    left: 55px;
+    top: 0px;
+    margin-left: 25px;
+}
+.pic3{
+    width: 24px;
+    height: 24px;
+    left: 110px;
+    top: 4px;
+    margin-left: 25px;
+}
+.block2{
+    display: block;
+    position: absolute;
+    width: 533px;
+    height: 311px;
+    left: 691px;
+    top: 94px;
+}
+.block3{
+    position: absolute;
+    width: 445px;
+    height: 160px;
+    left: 176px;
+    top: 617px;
+}
+.text3{
+    width: 445px;
+    left: 176px;
+    top: 617px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+.text4{
+    width: 434px;
+    height: 64px;
+    left: 176px;
+    top: 713px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    text-align: justify;
+    color: #000000;
+}
+.block4{
+    position: absolute;
+    width: 540px;
+    height: 305px;
+    left: 735px;
+    top: 617px;
+}
+.place1{
+    box-sizing: border-box;
+    width: 255px;
+    height: 60px;
+    left: 735px;
+    top: 617px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-top: 21px;
+    padding-left: 31px;
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+.place2{
+    box-sizing: border-box;
+    width: 255px;
+    height: 60px;
+    left: 1020px;
+    top: 617px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-top: 21px;
+    padding-left: 31px;
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+.place3{
+    box-sizing: border-box;
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 785px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    margin-bottom: 24px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-top: 21px;
+    padding-left: 31px;
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+.place4{
+    box-sizing: border-box;
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 785px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    margin-bottom: 27px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-top: 21px;
+    padding-left: 31px;
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+button{
+    box-sizing: border-box;
+    width: 160px;
+    height: 50px;
+    left: 735px;
+    top: 872px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 435px;
+    left: 0px;
+    top: 1045px;
+}
+h3{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+    margin-bottom: 33px;
+}
+p{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    color: #101010;
+}
+.text5{
+    display: block;
+    position: absolute;
+    width: 259px;
+    height: 264px;
+    left: 161px;
+}
+.adress1{
+    margin-bottom: 141px;
+}
+.text6{
+    display: block;
+    position: absolute;
+    width: 254px;
+    height: 164px;
+    left: 450px;
+    
+}
+.text7{
+    display: block;
+    position: absolute;
+    width: 122px;
+    height: 128px;
+    left: 734px;
+}
+.text8{
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 1022px;
+}
+ 
